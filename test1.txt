@@ -1,0 +1,5 @@
+Preconditions:
+There are people who are identified as being ill.
+
+Postconditions:
+Help is made available to the people. Others are shielded from the side effects of the illness.
